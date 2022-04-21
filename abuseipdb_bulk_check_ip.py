@@ -1,7 +1,7 @@
 #==============================================
 # Extracts IP addresses from .csv and .txt files
 # IPs will be checked with AbuseIPDB API and get exported to an Excel file
-# Author: dev-lu
+# Author: https://github.com/dev-lu
 #==============================================
 from getpass import getpass
 from datetime import datetime
